@@ -1,0 +1,13 @@
+Business Problem: A detailed dataset for a Retail mall selling various commodities like 
+furniture, electronics and clothing is given. This dataset includes two tables namely orders and 
+details, consisting of customer details along with their residence information and details about 
+the commodity that they purchase along with the quantity and amount of the products and the 
+profits gained on them respectively. 
+Project Outcomes:
+ Created interactive dashboard to track and analyse online sales data.
+ Used complex parameters to drill down in worksheet and customization using filters and 
+slicers.
+ Created connections, join new tables, calculations to manipulate data ad enable user 
+driven parameters for visualizations.
+ Used different types of customized visualizations like bar chart, pie chart, donut, cluster 
+based bar chart, scatter and line chart, area graph, a map and slicers
